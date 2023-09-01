@@ -6,6 +6,7 @@
   - This course enables me to expand my current, rudimentary understanding of the terminal, an area of computer science which I have long held in great fascination.
   - GitHub is almost essential for computer scientists in today's market; familiarizing myself with it will be extremely useful in the future.
   - Having attended CS193 lessons, I have found the atmosphere to be a very comforting space where I can allow my CS knowledge to develop.
+    
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
